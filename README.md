@@ -1,4 +1,4 @@
-- Olá, eu sou o @David29pro, tenho 29 anos!
+- Olá, eu sou o @David29pro, tenho 30 anos!
 - Tenho interessse em sistemas de banco de dados com a parte de front-end, mais precisamente como FullStack
 - Estudo programação na Udemy, curso de fullstack e já tenho alguns projetinhos pronto!
 - Meu linkedin: https://www.linkedin.com/in/david-robison-9453a4166/
