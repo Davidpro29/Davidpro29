@@ -1,6 +1,6 @@
 - Olá, eu sou o @David29pro e tenho 30 anos!
-- Tenho interessse na área FullStack, por isso estudo incalsávelmente para me tornar um melhor profissional
-- Estudo programação na B7Web, curso de fullstack e já tenho alguns projetinhos pronto!
+- Tenho interessse na área de dados, por isso estudo incalsávelmente para me tornar um melhor profissional
+- Estudo programação com migração para analista de dados.
 - Meu linkedin: https://www.linkedin.com/in/david-robison-9453a4166/
 - Meu portfólio: https://portfoliosilva.netlify.app/
 <!---
