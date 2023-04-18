@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, i am David Robison</h2>
 <h4 align="center">Apaixonado pela área de dados!</h4>
 
-- 👨‍💻 Meus projetos estão aqui [[https://sites.google.com/view/datasilva/inicial?pli=1](https://sites.google.com/view/datasilva/inicial?pli=1)](https://sites.google.com/view/davidrobison/p%C3%A1gina-inicial)
+- 👨‍💻 Meus projetos estão aqui (https://sites.google.com/view/davidrobison/p%C3%A1gina-inicial)
 
 - 📫 Meu email **silvapro@hotmail.com**
 
