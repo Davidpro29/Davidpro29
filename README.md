@@ -3,7 +3,7 @@
 
 - 👨‍💻 Meus projetos estão aqui (https://sites.google.com/view/davidrobison/p%C3%A1gina-inicial)
 
-- 📫 Meu email **silvapro@hotmail.com**
+- 📫 Meu email **studodata@gmail.com**
 
 - 📄 Melhor rede social [https://www.linkedin.com/in/david-robison-9453a4166/](https://www.linkedin.com/in/david-robison-9453a4166/)
 
